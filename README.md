@@ -119,7 +119,7 @@ I am currently improving my English skills.</h4>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Joel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jodyannre&custom_title=Joel's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Jodyannre"><img alt="Joel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jodyannre&custom_title=Joel's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
