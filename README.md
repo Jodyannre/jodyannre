@@ -4,9 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a technology and artificial intelligence enthusiastic student and future engineer in science and systems.
-I consider myself a proactive person, I like working in teams and I am eager to gain more experience to become a solid professional.
-I am currently improving my English skills.</h4>
+<h4 align="center">Technology and artificial intelligence enthusiastic student and future engineer in science and systems.
+The most challenging project I have developed was my thesis project, an SSO integration system for other projects developed in a university faculty.
+I am currently studying Kotlin and improving my English skills.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jodyannre&label=Profile%20views&color=0e75b6&style=plastic" alt="jodyannre" /> </p>
 
