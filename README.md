@@ -11,8 +11,7 @@ I am currently studying Kotlin and improving my English skills.</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jodyannre&label=Profile%20views&color=0e75b6&style=plastic" alt="jodyannre" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jodyannre&theme=algolia" alt="jodyannre"  /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-hazel-nine.vercel.app?user=jodyannre&theme=merko" alt="GitHub Streak" /></a>
 
 ## 🛠️ My Skills
 
